@@ -21,4 +21,4 @@ Main goal of the html page was to show the number big enough that it could be sh
 [CES4_Final Project](https://youtu.be/Ef2DD9kiiIM)
 
 ## More about this project
-[blog post for the project](https://ordinary-tenor-7bd.notion.site/CES_Mod3_Spring2022-e58083e46332459289b361f54fe25137)
+[blog post for the project](https://ordinary-tenor-7bd.notion.site/CES_Final-Project_WiFi-Scanner-bae9d72803c542ddbc5b13ac96a209ec)
